@@ -3,8 +3,8 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #c9c8c8; /* Light Gray background */
-  color: #374151; /* Dark Gray text */
+  background-color: #c9c8c8; 
+  color: #374151; 
 }
 
 /* Main App Container */
@@ -42,7 +42,7 @@ h3 {
 }
 h2 {
   font-size: 30px;
-  color: #232323; /* Deep   Blue */
+  color: #232323;
   text-align: center;
   margin-bottom: 20px;
   font-weight: bold;
@@ -50,7 +50,7 @@ h2 {
 
 p{
   font-size: 30px;
-  color: #232323; /* Deep   Blue */
+  color: #232323;
   text-align: center;
   margin-bottom: 20px;
 }
@@ -68,7 +68,7 @@ p{
 }
 
 .search-button {
-  background-color: #7158ff; /* Soft Orange */
+  background-color: #7158ff;
   color: rgb(255, 255, 255);
   font-weight: bold;
   border: none;
@@ -81,7 +81,7 @@ p{
 }
 
 .search-button:hover {
-  background-color: #D97706; /* Darker Orange */
+  background-color: #D97706;
 }
 
 /* Book List Section */
@@ -113,20 +113,20 @@ p{
 
 .book-card h3 {
   font-size: 1.1rem;
-  color: #374151; /* Dark Gray */
+  color: #374151; 
   font-weight: bold;
   margin-bottom: 5px;
 }
 
 .book-card p {
   font-size: 1rem;
-  color: #6B7280; /* Gray text */
+  color: #6B7280;
   margin-bottom: 10px;
 }
 
 /* Save Button Styling */
 .save-btn {
-  background-color: #10B981; /* Emerald Green */
+  background-color: #10B981;
   color: white;
   padding: 8px 16px;
   border: none;
@@ -136,7 +136,7 @@ p{
 }
 
 .save-btn:hover {
-  background-color: #047857; /* Darker Green */
+  background-color: #047857; 
 }
 
 /* Saved Books Section */
@@ -152,7 +152,7 @@ p{
 
 .saved-books-container h2 {
   font-size: 1.5rem;
-  color: #1E3A8A; /* Deep Blue */
+  color: #1E3A8A;
   margin-bottom: 20px;
   font-weight: bold;
   text-align: center;
@@ -165,7 +165,7 @@ p{
 }
 
 .saved-book-card {
-  background-color: #F9FAFB; /* Lighter Gray */
+  background-color: #F9FAFB; 
   border-radius: 8px;
   padding: 20px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
@@ -173,7 +173,7 @@ p{
 }
 
 .saved-book-card:hover {
-  transform: translateY(-5px); /* Hover effect */
+  transform: translateY(-5px); 
 }
 
 .saved-book-card h3 {
@@ -190,7 +190,7 @@ p{
 }
 
 .delete-btn {
-  background-color: #F87171; /* Red */
+  background-color: #F87171; 
   color: white;
   padding: 10px 20px;
   border: none;
@@ -200,8 +200,8 @@ p{
 }
 
 .delete-btn:hover {
-  background-color: #EF4444; /* Darker Red */
-  transform: scale(1.05); /* Slightly enlarge on hover */
+  background-color: #EF4444; 
+  transform: scale(1.05); 
 }
 
 /* Pagination */
@@ -214,7 +214,7 @@ p{
 }
 
 .pagination button {
-  background-color: #1E3A8A; /* Deep Blue */
+  background-color: #1E3A8A; 
   color: white;
   border: none;
   padding: 8px 16px;
@@ -224,7 +224,7 @@ p{
 }
 
 .pagination button:hover {
-  background-color: #F59E0B; /* Soft Orange */
+  background-color: #F59E0B;
 }
 
 
